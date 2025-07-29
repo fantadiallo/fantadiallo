@@ -1,18 +1,18 @@
 # Hi, I'm Fatou Jallow Mboge
 
-I'm a final-year **Front-End Development student at Noroff School of Technology**, graduating in June 2025. I specialize in building **modern, responsive, and accessible web applications** using **React**, with a strong focus on clean design, usability, and performance.
+I'm a **Front-End Developer** with a degree from **Noroff School of Technology** (Graduated June 2025). I specialize in building **modern, responsive, and accessible websites** using **React**, with a strong focus on **clean UI**, **performance**, and **user-centered design**.
 
-Currently, I'm developing a React-based productivity application and refining my skills in **component-based architecture**, **state management**, and **UI/UX best practices**.
+Currently working as a **freelancer** and open to **frontend developer roles**, **collaborations**, and **creative projects** where I can help bring ideas to life.
 
 ---
 
 ## About Me
 
-- Final-year front-end development student
-- Strong foundation in JavaScript, React, SCSS, and design systems
-- Continuously learning performance optimization and SEO
-- Passionate about accessibility, clean UI, and user-centered development
-- Working towards becoming a front-end developer for real-world impact in West Africa and beyond
+- 🎓 Front-End Development graduate (Noroff, 2025)  
+- 💻 Strong foundation in **JavaScript**, **React**, **SCSS**, and **component-based architecture**  
+- 🌍 Passionate about **accessibility**, **clean design**, and **real-world impact**  
+- 🚀 Always learning — from SEO and performance to UI/UX best practices  
+- 🌍 Focused on using tech to create meaningful solutions across **West Africa and beyond**
 
 ---
 
@@ -25,26 +25,46 @@ Currently, I'm developing a React-based productivity application and refining my
 
 **Tools & Platforms**  
 - Git, GitHub, Netlify, Firebase  
-- Figma (prototyping & UI design), Postman (API testing)  
-- Supabase (Auth & DB), Jest, Cypress (testing), GitHub Actions (CI/CD)
+- Supabase (Auth & DB), Figma, Postman  
+- Jest, Cypress (testing), GitHub Actions (CI/CD)
 
 ---
 
-## Current Project
+---
 
-**FinishTheGoal App**  
-A React-based productivity application focused on personal growth and goal tracking.  
-Key features:
+## Current Projects
+
+### 🔧 FinishTheGoal App  
+A React-based productivity application focused on personal growth and goal tracking.
+
+**Key features:**
 - AI-assisted task and habit suggestions  
 - Modular components styled with SCSS  
 - Profile customization with avatar and vision board  
-- Authentication and role-based access
+- Authentication and role-based access  
+
+### 💍 Yafato Jewelry  
+A luxury eCommerce platform for handcrafted West African silver jewelry, blending cultural meaning with modern design.
+
+**Key features:**
+- Custom React storefront with responsive layout  
+- Shopify backend integration (customized checkout & favorite system)  
+- SCSS modules for consistent design system  
+- Story-driven product pages and brand identity  
+- Newsletter and marketing integrations (Mailchimp & WhatsApp-ready)
 
 ---
 
 ## Contact
 
-**Email:** fatmbo03@outlook.com  
-**GitHub:** [https://github.com/fantadiallo](https://github.com/fantadiallo)
+- **Email:** fatmbo03@outlook.com  
+- **GitHub:** [github.com/fantadiallo](https://github.com/fantadiallo)  
+- **Phone/WhatsApp:** +47 944 64 132  
+- **Portfolio Website:** _Coming soon_
 
-I’m open to **collaborations, internships, freelance work**, and **front-end roles** where I can contribute to meaningful, user-focused projects.
+---
+
+💼 **Currently open for:**
+- Front-End Developer roles (remote or hybrid)  
+- Freelance web projects  
+- Collaborations on meaningful tech initiatives
