@@ -9,9 +9,9 @@ Currently working as a **freelancer** and open to **frontend developer roles**, 
 ## About Me
 
 - 🎓 Front-End Development graduate (Noroff, 2025)  
-- 💻 Strong foundation in **JavaScript**, **React**, **SCSS**, and **component-based architecture**  
-- 🌍 Passionate about **accessibility**, **clean design**, and **real-world impact**  
-- 🚀 Always learning — from SEO and performance to UI/UX best practices  
+-  Strong foundation in **JavaScript**, **React**, **SCSS**, and **component-based architecture**  
+-  Passionate about **accessibility**, **clean design**, and **real-world impact**  
+-  Always learning  from SEO and performance to UI/UX best practices  
 - 🌍 Focused on using tech to create meaningful solutions across **West Africa and beyond**
 
 ---
