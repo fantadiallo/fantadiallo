@@ -1,70 +1,45 @@
-# Hi, I'm Fatou Jallow Mboge
+# Hi there 👋 I’m **Fatou Jallow Mboge**
 
-I'm a **Front-End Developer** with a degree from **Noroff School of Technology** (Graduated June 2025). I specialize in building **modern, responsive, and accessible websites** using **React**, with a strong focus on **clean UI**, **performance**, and **user-centered design**.
+## 🚀 About Me
+I’m a **Full-Stack Developer** (frontend-first) passionate about crafting modern, responsive, and accessible web applications.  
+With a degree from **Noroff School of Technology (2025)**, I build clean UIs and robust backend systems that power real-world products.
 
-Currently working as a **freelancer** and open to **frontend developer roles**, **collaborations**, and **creative projects** where I can help bring ideas to life.
-
----
-
-## About Me
-
-- 🎓 Front-End Development graduate (Noroff, 2025)  
--  Strong foundation in **JavaScript**, **React**, **SCSS**, and **component-based architecture**  
--  Passionate about **accessibility**, **clean design**, and **real-world impact**  
--  Always learning  from SEO and performance to UI/UX best practices  
-- 🌍 Focused on using tech to create meaningful solutions across **West Africa and beyond**
+- 🛠️ Strong with **JavaScript**, **React**, **SCSS**, and **component architecture**  
+- 🔧 Backend experience: **Node.js**, **Express**, **Supabase**, **PostgreSQL**  
+- 🎯 Focused on **accessibility**, **performance**, and **user-centered design**  
+- 🌍 Driven to build meaningful solutions, especially across **West Africa and beyond**
 
 ---
 
-## Core Technologies
+## 💻 Tech Stack
 
-**Languages & Frameworks**  
-- HTML5, CSS3, JavaScript (ES6+), SCSS  
-- React, Vite, Bootstrap, Next.js (learning)  
-- Node.js, Express (basic usage)
-
-**Tools & Platforms**  
-- Git, GitHub, Netlify, Firebase  
-- Supabase (Auth & DB), Figma, Postman  
-- Jest, Cypress (testing), GitHub Actions (CI/CD)
+| Domain      | Technologies |
+|-------------|--------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), SCSS, React, Vite, Bootstrap, Next.js (learning) |
+| **Backend**  | Node.js, Express, Supabase (Auth & DB), PostgreSQL, REST APIs |
+| **Tools & Workflow** | Git, GitHub, Netlify, Firebase, Figma, Postman, Jest, Cypress, GitHub Actions (CI/CD) |
 
 ---
 
----
-
-## Current Projects
-
-### 🔧 FinishTheGoal App  
-A React-based productivity application focused on personal growth and goal tracking.
-
-**Key features:**
-- AI-assisted task and habit suggestions  
-- Modular components styled with SCSS  
-- Profile customization with avatar and vision board  
-- Authentication and role-based access  
-
-### 💍 Yafato Jewelry  
-A luxury eCommerce platform for handcrafted West African silver jewelry, blending cultural meaning with modern design.
-
-**Key features:**
-- Custom React storefront with responsive layout  
-- Shopify backend integration (customized checkout & favorite system)  
-- SCSS modules for consistent design system  
-- Story-driven product pages and brand identity  
-- Newsletter and marketing integrations (Mailchimp & WhatsApp-ready)
+## 🔭 What I’m Doing Now
+- Building full-stack projects to refine my backend architecture skills  
+- Exploring **Next.js**, **serverless functions**, and **edge computing**  
+- Contributing to open-source and communities across Africa
 
 ---
 
-## Contact
-
-- **Email:** fatmbo03@outlook.com  
-- **GitHub:** [github.com/fantadiallo](https://github.com/fantadiallo)  
-- **Phone/WhatsApp:** +47 944 64 132  
-- **Portfolio Website:** _Coming soon_
+## 📫 How to Reach Me
+- Website / Portfolio: [fatoujallow.com](https://www.fatoujallow.com)  
+- GitHub: `github.com/your-github-username`  
+- Email: your.email@example.com  
 
 ---
 
-💼 **Currently open for:**
-- Front-End Developer roles (remote or hybrid)  
-- Freelance web projects  
-- Collaborations on meaningful tech initiatives
+## 🏆 Highlights & Projects
+- (Insert 2–3 standout projects here: a React app, a full-stack application, etc.)  
+- (Link to live demos, GitHub repos)
+
+---
+
+Thanks for stopping by — let’s build something awesome together! 🚀
+
