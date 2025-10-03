@@ -30,16 +30,11 @@ With a degree from **Noroff School of Technology (2025)**, I build clean UIs and
 
 ## 📫 How to Reach Me
 - Website / Portfolio: [fatoujallow.com](https://www.fatoujallow.com)  
-- GitHub: `github.com/your-github-username`  
-- Email: your.email@example.com  
+- Email: Fatmbo0003@outlook.com  
 
 ---
 
-## 🏆 Highlights & Projects
-- (Insert 2–3 standout projects here: a React app, a full-stack application, etc.)  
-- (Link to live demos, GitHub repos)
 
----
 
 Thanks for stopping by — let’s build something awesome together! 🚀
 
